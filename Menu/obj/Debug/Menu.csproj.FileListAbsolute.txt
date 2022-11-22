@@ -1,0 +1,13 @@
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\bin\Debug\Menu.exe.config
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\bin\Debug\Menu.exe
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\bin\Debug\Menu.pdb
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\obj\Debug\Menu.TextEditer.resources
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\obj\Debug\Menu.exe
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\obj\Debug\Menu.pdb
+C:\Users\Miguel Farias\source\repos\TextEditer\Menu\obj\Debug\Menu.Drawing.resources
